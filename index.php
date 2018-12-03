@@ -68,6 +68,13 @@
 </section>
 <section class="container-fluid">
   <div class="container">
+      <div class="row mThree">
+        <div class="col-lg-12">
+          <p class="txtWhosTitulo">A MATTRESS ONE</p>
+          <p class="txtWhos">
+              A Mattress One é a mais nova, e inovadora, rede especializada na venda de colchões do Brasil. Conta atualmente com 4 lojas no estado de São Paulo, todas inauguradas em 2018.<br/> Apesar do pouco tempo de estrada, A Mattress One foi fundada por Edson Iannoni, figura icônica que carrega consigo 25 anos de experiência nesse mercado. Edson já criou um império com mais de 60 lojas, o qual cuidou por mais de 18 anos. Nessa nova empreitada, com a Mattress One, quer ressignificar a experiência do cliente, oferecendo atendimento incomparável, preços competitivos e produtos de ótima qualidade.
+          </p>
+      </div>
     <div class="row mThree">
       <div class="col-lg-12">
         <p class="txtTwo">Assista no <span><img src="images/megatv.png" class="" alt=""></span></p>

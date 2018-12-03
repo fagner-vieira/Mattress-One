@@ -71,3 +71,15 @@ a:hover, a:active, a:focus{
     }
 
 }
+
+.txtWhosTitulo{
+    text-align: center;
+    font-size: 3.1em;
+    color: #fff;
+}
+
+.txtWhos{
+    color: #fff;
+    padding: 8%;
+    font-size: 1.2em;
+}
